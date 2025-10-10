@@ -11,6 +11,7 @@
 ```bash
 cd yourproject/path
 git clobe https://github.com/bxrzxr/geometric_lib.git
+
 ```
 
 ### В python файле импортируйте библиотеку
